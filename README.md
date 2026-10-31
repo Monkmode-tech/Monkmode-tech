@@ -1,6 +1,6 @@
 # Hi, I'm Caleb Tetteh 👋
 
-**Cloud & security engineer.** Software Engineer at Verizon · M.S. Cloud Computing (UMGC, Dec 2026) · B.S. Computer Science (Georgia Tech)
+**Cloud & security engineer.** Software Engineer at Verizon · M.S. Cloud Computing (UMGC, May 2026) · B.S. Computer Science (Georgia Tech)
 
 At Verizon I build the AWS microservices behind the **Verizon Family app**: real-time messaging and
 location notifications with a **99.99% delivery success rate**, and Lambda services answering in
@@ -102,7 +102,7 @@ and NestJS performance improved by over 50%.
 
 ## Education
 
-- **M.S. Cloud Computing**, University of Maryland Global Campus (expected Dec 2026). The projects above grew out of this coursework.
+- **M.S. Cloud Computing**, University of Maryland Global Campus (May 2026). The projects above grew out of this coursework.
 - **B.S. Computer Science**, Georgia Institute of Technology (May 2024)
 
 📫 tettehcaleb@gmail.com · [LinkedIn](https://linkedin.com/in/calebtetteh/)
